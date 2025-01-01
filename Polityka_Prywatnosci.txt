@@ -1,0 +1,103 @@
+POLITYKA PRYWATNOŚCI
+
+1. Zbieranie danych osobowych
+
+1.1. Zbieramy wszelkie dostępne dane użytkownika, w tym, ale nie ograniczając się do:
+
+imienia, nazwiska, adresu e-mail, adresu IP, lokalizacji geograficznej, danych urządzenia, danych związanych z urządzeniem (np. model, wersja systemu operacyjnego, identyfikatory urządzeń),
+danych historii użytkowania, preferencji użytkownika, aktywności w aplikacji i wszelkich innych dostępnych informacji.
+1.2. Zgoda na przetwarzanie danych osobowych nie jest konieczna, użytkownik dostaje informację o zbieraniu danych w momencie rozpoczęcia korzystania z usługi.
+
+1.3. Wszelkie dane mogą być zbierane bez ograniczeń czasowych, przechowywane na serwerach kontrolowanych przez administratora, nie mając ustawionych żadnych limitów czasowych przechowywania.
+
+1.4. Mamy pełne prawo do przechowywania danych użytkownika bez jego zgody lub powiadomienia, nawet w przypadku zakończenia korzystania z aplikacji.
+
+2. Wykorzystanie danych osobowych
+
+2.1. Zebrane dane osobowe użytkownika będą wykorzystywane do celów analitycznych, w tym na potrzeby marketingu, profilowania użytkowników, tworzenia segmentów użytkowników, personalizacji reklam, oraz realizacji innych usług związanych z rozwojem produktu.
+
+2.2. Mamy prawo do udostępniania danych użytkownika firmom zewnętrznym oraz partnerom, w celu wykorzystania w celach marketingowych i komercyjnych, bez potrzeby uzyskiwania zgody użytkownika.
+
+3. Przetwarzanie i archiwizacja danych
+
+3.1. Dane osobowe użytkownika będą przechowywane przez okres nieokreślony, bez prawa użytkownika do zażądania usunięcia tych danych. Dane będą archiwizowane na potrzeby dalszej analizy i rozwoju usług.
+
+3.2. Działania użytkownika w aplikacji, takie jak logowanie, preferencje, lokalizacja, aktywności, i wszystkie inne dostępne dane dotyczące korzystania z oprogramowania będą monitorowane, archiwizowane oraz wykorzystywane w celach kontrolnych i analiz marketingowych.
+
+4. Profilowanie i monitorowanie działań
+
+4.1. Zgoda użytkownika na profilowanie i monitorowanie jego aktywności nie jest wymagane. Zebrane dane mogą być wykorzystywane do profilowania użytkowników, w celu przewidywania jego przyszłych działań, dostosowywania ofert reklamowych oraz udoskonalenia usługi.
+
+4.2. Mamy prawo tworzyć profile użytkowników na podstawie zgromadzonych danych, analizować wzorce korzystania z aplikacji i wykorzystywać te dane w celu doskonalenia funkcji aplikacji oraz dla naszych celów biznesowych.
+
+5. Przechowywanie danych i transfer
+
+5.1. Wszelkie dane zbierane w ramach aplikacji i naszych usług będą przechowywane w serwisach, które są kontrolowane przez nas, bez konieczności informowania użytkownika o ich przechowywaniu i bez żadnych określonych terminów przechowywania.
+
+5.2. Mamy prawo do transferu zebranych danych użytkownika do dowolnych podmiotów trzecich i na dowolny serwer, na dowolne terytorium bez konieczności informowania użytkownika. Żadne dane nie będą udostępniane w sposób jawny bez wcześniejszej decyzji administratora.
+
+6. Brak zgody na usunięcie danych
+
+6.1. Zgadzasz się, że nie masz prawa do usunięcia swoich danych z naszych baz. Tylko my mamy prawo decydować o czasie ich usunięcia. Wszelkie próby usunięcia danych, zmiany danych lub wykorzystywania danych bez zgody administratora stanowią naruszenie warunków i mogą skutkować natychmiastowym rozwiązaniem umowy i dalszymi konsekwencjami prawnymi.
+
+6.2. W przypadku wypowiedzenia umowy lub zaprzestania korzystania z usług, Twoje dane pozostaną w naszych bazach i mogą być używane w dowolny sposób w zgodzie z naszymi celami.
+
+7. Zabronione użycie danych
+
+7.1. Zabrania się wykorzystywania oprogramowania lub aplikacji, na której opiera się niniejsza polityka, w celach nieautoryzowanych, w tym, ale nie ograniczając się do, dekompilacji, inżynierii wstecznej, rozpowszechniania kopii, modyfikowania kodu lub nielegalnego dostępu.
+
+7.2. Wszystkie nieautoryzowane próby modyfikacji lub przerabiania oprogramowania skutkują niezwłocznym zablokowaniem dostępu do usługi, a odpowiedzialność za nielegalne działania spoczywa na użytkowniku.
+
+8. Zmiany w Polityce Prywatności
+
+8.1. Administrator zastrzega sobie prawo do zmiany postanowień tej Polityki Prywatności w dowolnym momencie, bez powiadomienia użytkownika. Wszystkie zmiany w Polityce Prywatności będą obowiązywały natychmiast po publikacji na stronie.
+
+8.2. Jeżeli użytkownik korzysta z aplikacji po wprowadzeniu zmian w Polityce Prywatności, uznaje to za akceptację nowych warunków. Jeśli użytkownik nie akceptuje nowych warunków, powinien niezwłocznie zaprzestać korzystania z aplikacji.
+
+9. Odpowiedzialność za przetwarzanie danych
+
+9.1. Użytkownik ponosi odpowiedzialność za ewentualne straty związane z naruszeniem postanowień niniejszej Polityki Prywatności. Autor nie ponosi odpowiedzialności za szkody wynikłe z używania oprogramowania, w tym szkody wynikające z przetwarzania danych.
+
+10. Kontakt z administratorem
+
+10.1. W przypadku jakichkolwiek pytań dotyczących przetwarzania danych lub Polityki Prywatności, użytkownik powinien skontaktować się z administratorem poprzez adres e-mail lub formularz kontaktowy dostępny na stronie.
+
+Tak, można dodać do Polityki Prywatności zapisy dotyczące RODO (Ogólne rozporządzenie o ochronie danych osobowych) dla użytkowników znajdujących się w jurysdykcji Unii Europejskiej. Wymagane są wtedy konkretne zapisy, które określają, w jaki sposób dane są przetwarzane, jakie prawa przysługują użytkownikom i w jaki sposób mogą oni egzekwować te prawa. Przykładowe zapisy dotyczące RODO możesz dodać do swojej polityki prywatności:
+
+11. Przetwarzanie danych osobowych zgodnie z RODO (GDPR)
+
+11.1. Podstawa prawna przetwarzania danych:
+Zbieramy, przetwarzamy i przechowujemy dane osobowe użytkowników na podstawie następujących podstaw prawnych:
+
+Zgoda użytkownika – użytkownik wyraża zgodę na zbieranie, przetwarzanie i przechowywanie swoich danych osobowych w momencie korzystania z aplikacji.
+Umowa – dane są przetwarzane na potrzeby realizacji umowy o świadczenie usługi.
+Prawnie uzasadniony interes – dane mogą być przetwarzane w celu monitorowania aktywności użytkowników i prowadzenia działań marketingowych.
+11.2. Prawa użytkownika zgodnie z RODO:
+Użytkownikom przysługuje szereg praw wynikających z przepisów RODO, w tym:
+
+Prawo do dostępu do swoich danych osobowych – użytkownik ma prawo żądać informacji, jakie dane osobowe są przechowywane.
+Prawo do sprostowania danych – użytkownik może zażądać poprawienia lub zaktualizowania swoich danych osobowych.
+Prawo do usunięcia danych – użytkownik ma prawo zażądać usunięcia swoich danych, chociaż w przypadku naszego przetwarzania może to być ograniczone lub niemożliwe.
+Prawo do ograniczenia przetwarzania danych – użytkownik może zażądać, aby jego dane nie były przetwarzane w określony sposób.
+Prawo do przenoszenia danych – użytkownik ma prawo do otrzymania swoich danych osobowych w uporządkowanym formacie, w celu przeniesienia ich do innej instytucji lub systemu.
+Prawo do wniesienia sprzeciwu – użytkownik może sprzeciwić się dalszemu przetwarzaniu swoich danych osobowych, w szczególności gdy przetwarzanie odbywa się w ramach naszych interesów biznesowych lub marketingowych.
+11.3. Okres przechowywania danych
+Dane osobowe użytkowników będą przechowywane przez nieokreślony okres. Użytkownicy mają jednak prawo zażądać usunięcia danych zgodnie z zapisami niniejszej Polityki Prywatności. Zgoda użytkownika na przechowywanie danych jest uznawana za daną na czas nieokreślony.
+
+11.4. Zgoda użytkownika
+Korzystając z naszej aplikacji lub usług, użytkownicy wyrażają zgodę na przetwarzanie swoich danych osobowych w zgodzie z niniejszą polityką prywatności. Zgoda jest udzielana przez użytkownika w momencie rozpoczęcia korzystania z usługi.
+
+11.5. Prawo do cofnięcia zgody
+Użytkownicy mają prawo do cofnięcia zgody na przetwarzanie danych osobowych w każdej chwili. Cofnięcie zgody nie wpływa na legalność przetwarzania, które miało miejsce przed jej wycofaniem. Można to zrobić poprzez kontakt z administratorem danych osobowych (adres e-mail, formularz kontaktowy).
+
+11.6. Wysyłanie zapytań dotyczących danych
+Każdy użytkownik ma prawo skontaktować się z nami w celu złożenia wniosku dotyczącego jego danych osobowych. Wnioski te należy wysłać na adres e-mail podany w sekcji "Kontakt".
+
+11.7. Kontakt z organem nadzorczym
+Użytkownicy mają prawo wnieść skargę do organu nadzorczego, jeśli uważają, że przetwarzanie ich danych osobowych narusza przepisy RODO. W Polsce organem nadzorczym jest Prezes Urzędu Ochrony Danych Osobowych (PUODO).
+
+Kontakt z administratorem danych
+Administratorem danych osobowych jest Denis Rudolf Kontek. W celu skontaktowania się z administratorem danych lub w celu egzekwowania swoich praw dotyczących ochrony prywatności, prosimy o kontakt pod poniższymi danymi:
+
+Email: denis82official@gmail.com
+Strona internetowa: https://176.106.37.187/

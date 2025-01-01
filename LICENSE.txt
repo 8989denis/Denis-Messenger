@@ -1,0 +1,60 @@
+Copyright (c) 2024 Denis Rudolf Kontek. Wszystkie prawa zastrzeżone.
+
+Niniejsza licencja reguluje warunki, na jakich użytkownik może korzystać z Programu. Korzystając z Programu, użytkownik akceptuje wszystkie poniższe zasady i warunki, które stanowią pełną i wiążącą umowę między użytkownikiem a właścicielem praw autorskich. Jeśli użytkownik nie zgadza się z którymkolwiek z poniższych warunków, nie jest uprawniony do korzystania z Programu.
+
+1. **Definicje**:
+   Program odnosi się do oprogramowania, dokumentacji, materiałów pomocniczych, licencji oraz wszelkich plików pochodnych i wszelkich innych zasobów udostępnianych przez właściciela. Wszystkie elementy, takie jak kod źródłowy, kompilacje, grafiki, teksty, dźwięki, znaki towarowe i inne komponenty stanowią integralną część Programu i są objęte ochroną prawnoautorską.
+
+2. **Zakres używania Programu**:
+   - Użytkownik otrzymuje prawo do wyłącznie **osobistego**, **niekomercyjnego**, **nieprzenoszalnego** i **ograniczonego** korzystania z Programu na urządzeniu wskazanym podczas instalacji, wyłącznie w celach dozwolonych przez autora.
+   - Program może być używany **tylko zgodnie z jego przeznaczeniem** i wyłącznie w sposób określony w niniejszej licencji. Jakiekolwiek inne użycie jest zabronione.
+   - Użytkownik nie ma prawa sprzedawać, wynajmować, sublicencjonować, ani w jakikolwiek sposób udostępniać Programu lub jego elementów osobom trzecim.
+   - Jakiekolwiek działania mające na celu obejście zabezpieczeń Programu są surowo zabronione.
+
+3. **Prawa właściciela**:
+   - Właściciel ma wyłączne prawo do dokonywania jakichkolwiek modyfikacji, poprawek, aktualizacji oraz dodatków do Programu.
+   - Właściciel zastrzega sobie prawo do **kontroli korzystania z Programu** przez użytkowników oraz do blokowania dostępu w przypadku wykrycia naruszenia licencji.
+   - Autor zastrzega sobie wyłączne prawo do rozpowszechniania kopii Programu.
+
+4. **Ograniczenia użytkownika**:
+   Użytkownik nie może:
+   - Modyfikować, tłumaczyć, dekompilować, deasemblować ani przeprowadzać **inżynierii wstecznej** na Programie lub jego częściach.
+   - Tworzyć jakichkolwiek kopii Programu, jego elementów lub wynikających z niego pochodnych, chyba że wyraźnie dozwolone przez właściciela.
+   - Publikować, dystrybuować lub udostępniać Programu publicznie w jakiejkolwiek formie, w tym za pośrednictwem sieci P2P.
+   - Wykorzystywać Programu w celach komercyjnych, chyba że uzyskano pisemną zgodę właściciela.
+   - Analizować kodu źródłowego Programu lub jego funkcjonalności w celach badawczych, edukacyjnych lub innych bez zgody właściciela.
+
+5. **Sankcje za naruszenia**:
+   - Każde naruszenie warunków niniejszej licencji może skutkować natychmiastowym unieważnieniem licencji.
+   - Użytkownik ponosi odpowiedzialność finansową za naruszenia licencji, w tym za szkody materialne i niematerialne oraz za wszelkie koszty prawne poniesione przez właściciela.
+   - W przypadku nieautoryzowanego używania Programu, właściciel zastrzega sobie prawo do żądania wysokiego odszkodowania za naruszenie praw autorskich.
+
+6. **Odpowiedzialność i gwarancje**:
+   - Program jest dostarczany "w stanie takim, w jakim jest", bez jakiejkolwiek gwarancji co do jego funkcjonalności, bezpieczeństwa czy działania.
+   - Autor nie ponosi odpowiedzialności za jakiekolwiek szkody materialne, niematerialne lub finansowe wynikające z używania Programu.
+   - Użytkownik ponosi pełną odpowiedzialność za konsekwencje wynikające z niewłaściwego użytkowania Programu.
+   - Właściciel nie gwarantuje dostępności wsparcia technicznego ani dostarczania aktualizacji Programu w przyszłości.
+
+7. **Przetwarzanie danych i prywatność**:
+   - Program nie gromadzi ani nie przetwarza danych osobowych użytkownika bez jego zgody.
+   - Wszelkie dane generowane przez Program są przetwarzane wyłącznie w celu poprawnego działania i nie są udostępniane stronom trzecim.
+   - Właściciel ma prawo do przechowywania anonimowych danych dotyczących użytkowania Programu w celach analitycznych.
+
+8. **Zakończenie licencji**:
+   - Właściciel może w dowolnym momencie zakończyć licencję jednostronnie bez podania przyczyny.
+   - Naruszenie któregokolwiek z warunków licencji skutkuje jej natychmiastowym wygaśnięciem i zobowiązaniem użytkownika do usunięcia wszelkich kopii Programu.
+   - Po zakończeniu licencji użytkownik traci wszelkie prawa do korzystania z Programu i jest zobowiązany do zaprzestania jego użytkowania.
+
+9. **Zmiany w licencji**:
+   - Autor zastrzega sobie prawo do zmiany treści niniejszej licencji w dowolnym momencie. Wszelkie zmiany będą wiążące od momentu ich ogłoszenia.
+   - Dalsze korzystanie z Programu oznacza akceptację zmienionych warunków licencji.
+
+10. **Prawo właściwe i spory**:
+    - Niniejsza licencja podlega przepisom prawa polskiego.
+    - Wszelkie spory wynikające z niniejszej licencji będą rozstrzygane przez właściwe sądy w Polsce.
+
+11. **Postanowienia końcowe**:
+    - Użytkownik zobowiązuje się do przestrzegania niniejszej licencji. Każde naruszenie jej warunków może skutkować konsekwencjami prawnymi oraz finansowymi.
+    - Właściciel zastrzega sobie prawo do aktualizowania Programu lub wycofania go z rynku w dowolnym momencie.
+    - Wszelkie pytania dotyczące warunków licencji powinny być kierowane do właściciela Programu na adres email denis82official@gmail.com.
+

@@ -1,0 +1,21 @@
+{
+  "name": "denis-messenger",
+  "version": "v0.0.1-Alpha",
+  "description": "Komunikator w Konsoli",
+  "homepage": "https://github.com/8989denis/Denis-Messenger#readme",
+  "bugs": {
+    "url": "https://github.com/8989denis/Denis-Messenger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8989denis/Denis-Messenger.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Denis Rudolf Kontek",
+  "type": "module",
+  "main": "Client/Data/Client.mjs",
+  "scripts": {
+    "start_client": "node Data/Client.mjs",
+    "start_server": "node ../Server/Data/Server.mjs"
+  }
+}

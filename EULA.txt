@@ -1,0 +1,52 @@
+END USER LICENSE AGREEMENT (EULA) - Denis Messenger
+
+Copyright (c) 2024 Denis Rudolf Kontek. Wszystkie prawa zastrzeżone.
+
+Niniejsza umowa licencyjna („Umowa”) jest zawierana pomiędzy Tobą (użytkownikiem) a [Twoje Imię lub Nazwa Firmy] i reguluje warunki użytkowania oprogramowania „Denis Messenger”. Przed zainstalowaniem, używaniem lub dystrybucją oprogramowania, zapoznaj się z poniższymi warunkami. Instalując lub korzystając z oprogramowania, zgadzasz się na przestrzeganie tych warunków. Jeżeli nie zgadzasz się z jakimkolwiek postanowieniem niniejszej umowy, nie instaluj i nie używaj oprogramowania.
+
+1. Prawa autorskie i własność intelektualna
+Oprogramowanie, w tym jego kod źródłowy, dokumentacja, grafika, dźwięki, wideo, zdjęcia, materiały multimedialne oraz wszelkie inne komponenty są wyłączną własnością [Twoje Imię lub Nazwa Firmy] i są chronione prawem autorskim oraz innymi międzynarodowymi traktatami. Użytkownik nie nabywa żadnych praw własności intelektualnej do oprogramowania.
+
+2. Licencja na użytkowanie
+Użytkownik otrzymuje niewyłączne, niezbywalne, osobiste prawo do korzystania z oprogramowania tylko na jednym urządzeniu. Licencja ta jest ograniczona do dozwolonego użytku osobistego lub zgodnego z wyraźną, pisemną zgodą właściciela. Wszystkie inne formy użycia są zabronione bez uprzedniej, pisemnej zgody właściciela.
+
+3. Zakazy
+Użytkownik nie może:
+
+Reprodukowac, dekompilować, deasemblerować, przeprowadzać inżynierii wstecznej, modyfikować ani tworzyć pochodnych wersji oprogramowania.
+Dystrybuować, sprzedawać, wynajmować ani udostępniać oprogramowania osobom trzecim bez zgody autora.
+Używać oprogramowania do niezgodnych z umową działań, w tym niekomercyjnego udostępniania lub publicznego udostępniania.
+4. Unieważnienie zgody i zakończenie licencji
+Właściciel oprogramowania ma prawo do natychmiastowego unieważnienia tej licencji w dowolnym momencie, z dowolnego powodu lub bez powodu. Po unieważnieniu licencji użytkownik zobowiązany jest niezwłocznie zaprzestać korzystania z oprogramowania oraz usunąć wszelkie kopie z urządzenia. Naruszenie któregokolwiek z warunków tej licencji uprawnia właściciela do zażądania zaprzestania użytkowania oprogramowania, usunięcia go z urządzeń użytkownika oraz nałożenia sankcji finansowych.
+
+5. Kontrola nad użytkowaniem i dane użytkownika
+Właściciel oprogramowania ma pełne prawo do kontroli i monitorowania, w jaki sposób użytkownik używa oprogramowania, z możliwością przeglądania działań użytkownika.
+Właściciel zastrzega sobie prawo do zażądania usunięcia lub przeglądania danych użytkownika, w tym do uchwały, aby dane użytkownika były usunięte lub zachowane w przypadku jakichkolwiek wątpliwości co do zgodności z warunkami licencji.
+6. Żądanie natychmiastowego usunięcia oprogramowania
+W przypadku jakiegokolwiek naruszenia warunków licencji właściciel oprogramowania ma prawo do:
+
+Natychmiastowego zażądania od użytkownika usunięcia wszystkich kopii oprogramowania z urządzeń, bez żadnych dalszych kosztów dla właściciela.
+Nakładania kar finansowych za naruszenie warunków licencji, w wysokości uzgodnionej przez strony w danej sytuacji.
+7. Gwarancje i odpowiedzialność
+Oprogramowanie jest dostarczane „tak jak jest”, bez żadnej gwarancji, wyraźnej lub dorozumianej, w tym gwarancji przydatności do określonego celu czy braku naruszeń. Właściciel oprogramowania nie ponosi odpowiedzialności za jakiekolwiek straty wynikające z jego użytkowania, w tym utratę danych, uszkodzenie sprzętu czy inne niezamierzone szkody.
+
+8. Zbieranie danych użytkownika
+Oprogramowanie może zbierać i przetwarzać dane użytkownika, w tym dane osobowe, informacje o urządzeniu oraz informacje o użytkowaniu oprogramowania. Dane te mogą być przechowywane przez właściciela na czas nieokreślony, w celu poprawy oprogramowania i utrzymania jego jakości.
+
+9. Zmiany i aktualizacje
+Właściciel oprogramowania ma prawo do zmiany warunków niniejszej umowy oraz do wydawania nowych wersji oprogramowania. Nowe wersje lub zmiany warunków są wiążące, gdy użytkownik zainstaluje nową wersję lub kontynuuje korzystanie z oprogramowania po wprowadzeniu zmian.
+
+10. Jurysdykcja i prawo właściwe
+Niniejsza licencja jest regulowana prawem Polski. W przypadku wszelkich sporów związanych z tą licencją, właściwym sądem będzie sąd właściwy dla siedziby właściciela oprogramowania.
+
+11. Brak prawa do przenoszenia licencji
+Licencja jest udzielana wyłącznie użytkownikowi końcowemu, jest osobista, niezbywalna i nie może być przekazana innym osobom ani firmom, ani w jakiejkolwiek formie przenoszona.
+
+12. Kontakt z autorem oprogramowania
+Jeśli masz jakiekolwiek pytania lub wątpliwości dotyczące warunków niniejszej licencji lub jej egzekwowania, skontaktuj się z nami pod poniższymi danymi kontaktowymi:
+
+Email: denis82official@gmail.com
+Strona internetowa: https://176.106.37.187/
+
+Akceptacja warunków: Instalując i używając oprogramowania, użytkownik wyraża zgodę na niniejszą licencję. W przypadku braku zgody, użytkownik nie jest uprawniony do korzystania z oprogramowania.
+
